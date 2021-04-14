@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/darkCavalier11/solid-parakeet/static/css/main.77e3bb82.chunk.css",
+    "main.js": "/darkCavalier11/solid-parakeet/static/js/main.a509c95a.chunk.js",
+    "main.js.map": "/darkCavalier11/solid-parakeet/static/js/main.a509c95a.chunk.js.map",
+    "runtime-main.js": "/darkCavalier11/solid-parakeet/static/js/runtime-main.aae28722.js",
+    "runtime-main.js.map": "/darkCavalier11/solid-parakeet/static/js/runtime-main.aae28722.js.map",
+    "static/css/2.19072978.chunk.css": "/darkCavalier11/solid-parakeet/static/css/2.19072978.chunk.css",
+    "static/js/2.d72886ea.chunk.js": "/darkCavalier11/solid-parakeet/static/js/2.d72886ea.chunk.js",
+    "static/js/2.d72886ea.chunk.js.map": "/darkCavalier11/solid-parakeet/static/js/2.d72886ea.chunk.js.map",
+    "index.html": "/darkCavalier11/solid-parakeet/index.html",
+    "static/css/2.19072978.chunk.css.map": "/darkCavalier11/solid-parakeet/static/css/2.19072978.chunk.css.map",
+    "static/css/main.77e3bb82.chunk.css.map": "/darkCavalier11/solid-parakeet/static/css/main.77e3bb82.chunk.css.map",
+    "static/js/2.d72886ea.chunk.js.LICENSE.txt": "/darkCavalier11/solid-parakeet/static/js/2.d72886ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae28722.js",
+    "static/css/2.19072978.chunk.css",
+    "static/js/2.d72886ea.chunk.js",
+    "static/css/main.77e3bb82.chunk.css",
+    "static/js/main.a509c95a.chunk.js"
+  ]
+}
